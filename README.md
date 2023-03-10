@@ -2,7 +2,7 @@
 This is a personal drone blog created using React, Firebase, Google Maps API and YouTube API. It features an upload button and a login button, as well as a latest video section (from Yt API), profile section, and drone specification module. Please note that the login button is currently only for the admin (you can login with provided credentials) so they can upload new content.
 
 ## Demo
-[Click here](personaldroneblog.netlify.app) to see a live demo of the site.
+[Click here](https://personaldroneblog.netlify.app/) to see a live demo of the site.
 
 ## Technologies Used
 React
